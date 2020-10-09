@@ -1,2 +1,2 @@
 # gridlovers
- gride demos from fans https://fflab.github.io/gridlovers/
+ grid demos from fans https://fflab.github.io/gridlovers/
